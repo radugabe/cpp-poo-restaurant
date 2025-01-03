@@ -1,5 +1,4 @@
-# cpp-poo-restaurant
-# ~Proiect POO C++~
+# Proiect POO C++
 
 Proiectul implementează un modul de gestiune a unui restaurant din prisma stocului materiilor prime din bucătărie. 
 Clienții au posibilitatea de a consulta un meniu care conține toate preparatele pe care acesta le poate comanda. 
@@ -18,4 +17,3 @@ Fisierul utilizatori.txt retine utilizatorii care au plasat comenzi si confirma 
 Fisierul meniu.bin retine meniul restaurantului in format binar.
 Fisierul RapoarteDataMining.txt retine date de tip data mining despre comanda (data in timp real la care a fost facuta comanda, etc)
 Fisierul RecenziiClienti.csv retine recenziile clientilor in format csv.
-
